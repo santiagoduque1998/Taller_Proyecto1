@@ -1,0 +1,17 @@
+html {
+    font-size: 62.5%;         /* 1 rem es igual a 10px */
+}
+body{
+  text-align: center;
+}
+body{
+  font-size: 16px; 
+}
+ 
+ span{
+  font-size: 4rem;
+} 
+
+header{ 
+  font-family: 'Akaya Telivigala', cursive;
+}
