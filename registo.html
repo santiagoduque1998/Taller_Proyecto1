@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css"> 
+</head>
+<body>
+
+<header>
+    <h1>Tu opinion es muy importante para nosotros</h1>
+</header>
+<br>
+<br>
+ <h2>Te invitamos a realizar esta breve encuesta.</h2>
+<br>
+    <p>¿Eres cliente frecuente?</p>
+    <input type="checkbox" name="si" value="si">Si
+    <input type="checkbox" name="si" value="si">No
+<br>
+    <p>¿Recomendarias nuestros productos?</p>
+    <input type="checkbox" name="si" value="s">Si
+    <input type="checkbox" name="si" value="n">No
+<br>
+    <p>¿Nuestros precios se acomodan a tu cartera?</p>
+    <input type="checkbox" name="si" value="2">Si
+    <input type="checkbox" name="si" value="2">No
+<br>
+
+    <form action="registo.html" method="get">
+        <p>Nombre: <input type="text" name="nombre" size="40"></p>
+        <p>Año de nacimiento: <input type="number" name="nacido" min="1900"></p>
+        <p>correo electronico: <input type="email" name="correo" size="40"></p>
+        <p>Sexo:
+          <input type="checkbox" name="hm" value="h"> Hombre
+          <input type="checkbox" name="hm" value="m"> Mujer
+        </p>
+        <p>
+          <input type="submit" value="Enviar">
+          <input type="reset" value="Borrar">
+        </p>
+    </form>
+    <textarea name="Comentario" cols="30" rows="10" placeholder="Has tus comentarios, y deja tus opiniones."></textarea>
+
+</body>
+</html>
