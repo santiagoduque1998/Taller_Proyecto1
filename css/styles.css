@@ -1,6 +1,6 @@
-html {
+body{
 
-    font-size: 62.5%;         /* 1 rem es igual a 10px */
+  font-size: 62.5%;         /* 1 rem es igual a 10px */
 }
 body{
   text-align: center;
@@ -16,8 +16,13 @@ body{
 body{
   font-family: 'Akaya Telivigala', cursive;
 }
-
-
-/*<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/styles.css"> */
+p{
+  font-size: 16px;
+}
+.Nav1{
+  text-align: left;
+  font-family: 'Ravi Prakash', cursive;
+}
+footer{
+  background-color:rgb(143, 127, 127);
+}

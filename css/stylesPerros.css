@@ -1,0 +1,31 @@
+body{
+
+    font-size: 62.5%;         
+  }
+  body{
+    text-align: center;
+  }
+  body{
+    font-size: 16px; 
+  }
+   
+   span{
+    font-size: 4rem;
+  } 
+  
+  body{
+    font-family: 'Akaya Telivigala', cursive;
+  }
+  p{
+    font-size: 16px;
+  }
+  .Nav1{
+    text-align: left;
+    font-family: 'Ravi Prakash', cursive;
+  }
+  footer{
+    background-color:rgb(143, 127, 127);
+  }
+  .videoedit{
+    height: 150px;
+  }
