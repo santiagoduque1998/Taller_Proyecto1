@@ -1,27 +1,21 @@
-body{
+html{
 
   font-size: 62.5%;         /* 1 rem es igual a 10px */
 }
 body{
   text-align: center;
+  font-size: 16px;
+  font-family: 'Akaya Telivigala', cursive; 
 }
-body{
-  font-size: 16px; 
-}
- 
+
  span{
   font-size: 4rem;
 } 
 
-body{
-  font-family: 'Akaya Telivigala', cursive;
-}
 p{
   font-size: 16px;
 }
-.Nav1{
-  text-align: left;
-  font-family: 'Ravi Prakash', cursive;
+
 }
 footer{
   background-color:rgb(143, 127, 127);
